@@ -21,15 +21,6 @@ AI-powered platform that analyzes 5,000+ job postings using sentence embeddings 
 ### C++ Chess Engine (In Progress)
 Custom chess engine leveraging modern C++ and bitwise operations for fast move execution and board mirroring. Clean separation between piece arrays (human-readable) and bitboards (engine-efficient), with architecture designed for layering on evaluation and search algorithms.
 
-## 💡 What My Repos Emphasize
-
-- Performance-conscious design decisions
-- Willingness to refactor and rebuild when architecture demands it
-
-## 🌱 Developer Identity
-
-Builder-first, execution-driven engineer with strong interest in systems, engines, and real-world software — not just demos.
-
 ## 📫 How to Reach Me
 
 Feel free to email me at joshuadowd.cs@gmail.com! I'm always on my email and will get back to you ASAP
