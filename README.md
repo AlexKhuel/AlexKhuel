@@ -15,11 +15,22 @@ I'm **Joshua Dowd**, a Computer Science freshman focused on building and shippin
 
 ## 🚀 Notable Projects
 
-### DevMapped — AI Career Roadmap Platform (Being Refactored)
-AI-powered platform that analyzes 5,000+ job postings using sentence embeddings and cosine similarity to generate structured learning sprints. Built end-to-end with React, Express, and SQL/Firebase, including API orchestration and deployment. Iterated from MVP to rebuilt architecture under real performance and scaling constraints.
+###DevMapped — AI Career Roadmap Platform (Refactoring)
 
-### C++ Chess Engine (In Progress)
-Custom chess engine leveraging modern C++ and bitwise operations for fast move execution and board mirroring. Clean separation between piece arrays (human-readable) and bitboards (engine-efficient), with architecture designed for layering on evaluation and search algorithms.
+*AI-powered platform that analyzes 5,000+ job postings using sentence embeddings and cosine similarity to generate personalized learning sprints
+*Built with React, Express, and SQL; migrated from Firebase for performance at scale
+*Uses Gemini AI and Xenova embeddings to match user skills against market demands and create actionable 3-5 week learning paths
+*Delivered MVP in 40 hours, then refactored architecture based on real performance constraints
+*Deployed on Render, currently helping students build targeted skill foundations for competitive roles
+
+
+###C++ Chess Engine (In Progress)
+
+*Custom chess engine using modern C++ with bitboards for fast move generation and board state representation
+(Clean dual architecture: bitboards for engine efficiency, piece arrays for human-readable state
+*Implements legal move generation for all pieces including edge cases (castling, en passant, pins, checks)
+*Modular design separating board representation, move generation, and evaluation for easy algorithm layering
+*Designed for future UCI protocol integration and Lichess deployment
 
 ## 📫 How to Reach Me
 
