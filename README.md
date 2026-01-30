@@ -23,7 +23,7 @@
 * Deployed on Render, currently helping students build targeted skill foundations for competitive roles
 
 
-### C++ Chess Engine (In Progress)
+### Archangel C++ Chess Engine (In Progress)
 
 * Custom chess engine using C++ 20 with bitboards for fast move generation and board state representation
 * Fully represented by bitboards to increase speed and remove syncing errors
