@@ -1,19 +1,18 @@
-# Hi there 👋
-
-I'm **Joshua Dowd**, a Computer Science freshman focused on building and shipping real systems. I emphasize end-to-end ownership, performance-conscious design, and practical trade-offs over academic abstractions.
+# Hi I'm Joshua!
 
 ## 🔭 What I'm Currently Working On
 
-**C++ Chess Engine** — A performance-oriented chess engine built from scratch using bitboards for efficient board representation. Implements full chess rules (castling, en passant, FEN parsing) with state save/restore to enable future search algorithms. Designed with extensibility in mind for evaluation, move generation, and minimax/alpha-beta search.
+**[C++ Chess Engine - Archangel](https://github.com/AlexKhuel/Archangel)** — Improving the search by trying all capture chains to have a more accurate evaluation.
 
-## 🛠️ Core Stack
+## Core Stack
 
-**Languages:** JavaScript, Java, C++  
+**Languages:** JavaScript, Java, C++
 **Frontend:** React, Vite, Tailwind CSS, React Router  
 **Backend:** Node.js, Express  
-**Data & AI:** SQL, Firebase, vector embeddings (SBERT / cosine similarity)
+**Data & AI:** SQL, Firebase, vector embeddings
+**Hosting** AWS RDS & EC2
 
-## 🚀 Notable Projects
+## Projects
 
 ### DevMapped — AI Career Roadmap Platform (Refactoring)
 
@@ -26,12 +25,15 @@ I'm **Joshua Dowd**, a Computer Science freshman focused on building and shippin
 
 ### C++ Chess Engine (In Progress)
 
-* Custom chess engine using modern C++ with bitboards for fast move generation and board state representation
-* Clean dual architecture: bitboards for engine efficiency, piece arrays for human-readable state
+* Custom chess engine using C++ 20 with bitboards for fast move generation and board state representation
+* Fully represented by bitboards to increase speed and remove syncing errors
 * Implements legal move generation for all pieces including edge cases (castling, en passant, pins, checks)
 * Modular design separating board representation, move generation, and evaluation for easy algorithm layering
-* Designed for future UCI protocol integration and Lichess deployment
+* Lichess deployment on the horizon
 
-## 📫 How to Reach Me
-
-Feel free to email me at joshuadowd.cs@gmail.com! I'm always on my email and will get back to you ASAP
+## Connect with me!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-dowd/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexKhuel)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/alexkhuel/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshuadowd.cu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuadowd.cs@gmail.com)
