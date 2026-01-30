@@ -1,6 +1,6 @@
 # Hi I'm Joshua!
 
-## 🔭 What I'm Currently Working On
+## What I'm Currently Working On
 
 **[C++ Chess Engine - Archangel](https://github.com/AlexKhuel/Archangel)** — Improving the search by trying all capture chains to have a more accurate evaluation.
 
