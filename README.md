@@ -6,11 +6,11 @@
 
 ## Core Stack
 
-**Languages:** JavaScript, Java, C++
-**Frontend:** React, Vite, Tailwind CSS, React Router  
-**Backend:** Node.js, Express  
-**Data & AI:** SQL, Firebase, vector embeddings
-**Hosting** AWS RDS & EC2
+* **Languages:** JavaScript, Java, C++ 
+* **Frontend:** React, Vite, Tailwind CSS, React Router  
+* **Backend:** Node.js, Express  
+* **Data & AI:** SQL, Firebase, vector embeddings
+* **Hosting** AWS RDS & EC2
 
 ## Projects
 
